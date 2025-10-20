@@ -1,0 +1,14 @@
+# 0 ; are ; 2 ; f2.txt ; 2 #
+# 0 ; are ; 2 ; f1.txt ; 2 #
+# 1 ; best ; 2 ; f2.txt ; 1 #
+# 1 ; best ; 2 ; f1.txt ; 1 #
+# 5 ; fine ; 1 ; f1.txt ; 1 #
+# 7 ; hello ; 1 ; f2.txt ; 1 #
+# 7 ; hey ; 1 ; f2.txt ; 2 #
+# 7 ; how ; 1 ; f1.txt ; 1 #
+# 7 ; hi ; 1 ; f1.txt ; 1 #
+# 19 ; the ; 1 ; f1.txt ; 1 #
+# 19 ; thank ; 1 ; f1.txt ; 1 #
+# 24 ; you ; 2 ; f2.txt ; 2 #
+# 24 ; you ; 2 ; f1.txt ; 3 #
+# 26 ; ? ; 1 ; f1.txt ; 1 #
